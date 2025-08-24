@@ -98,7 +98,7 @@ src/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/BatPassword.git
+git clone https://github.com/WillianAmorim/bat-pass-app.git
 ```
 
 2. Instale as dependências:
