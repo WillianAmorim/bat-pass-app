@@ -4,7 +4,7 @@ import { styles } from './BatButtonStyles';
 import { BatTextInput } from '../BatTextInput/BatTextInput';
 import generatePass from '../../services/passwordService';
 import * as Clipboard from 'expo-clipboard';
-import { SettingsPassword } from '../SettingsPassword/SettingsPassword';
+import { SettingsPassword } from '../SettingsPassword/index.tsx';
 import passwordStrength from '../../services/passwordStrength';
 
 export function BatButton() {
